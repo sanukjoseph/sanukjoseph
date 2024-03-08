@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer 
 --------------------
-![](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=2588&color=brightgreen&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=2588&color=brightgreen)
 
 ### Skills
 
