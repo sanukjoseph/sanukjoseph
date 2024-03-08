@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanu K Joseph
 =====================================================================================================================================
 
-Full Stack Developer
+Full Stack Developer 
 --------------------
-
-Full Stack ReactJS/NodeJS Developer (Reactjs, Nodejs, Nextjs, TypeScript, Express, ML/AI)
 
 ### Skills
 
