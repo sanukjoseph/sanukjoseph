@@ -22,6 +22,6 @@ Full Stack Developer
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanukjoseph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanukjoseph&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
