@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&pause=1000&color=0042F7&random=false&width=435&lines=Hi%2C+I'm+Sanu+K+Joseph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=0042F7&random=false&width=435&lines=Hi%2C+I'm+Sanu+K+Joseph)](https://git.io/typing-svg)
 =====================================================================================================================================
 
 Full Stack Developer 
