@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=0042F7&random=false&width=435&lines=Hi%2C+I'm+Sanu+K+Joseph)](https://git.io/typing-svg)
-=====================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=0042F7&random=false&width=435&lines=Hi%2C+I'm+Sanu+K+Joseph;Full+Stack+Developer)](https://git.io/typing-svg)
 
-Full Stack Developer 
---------------------
-![Count](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-k-joseph)
+<div align="center">
+  
+  ![Count](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-k-joseph)
+</div>
 
 ### Skills
 
