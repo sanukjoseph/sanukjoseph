@@ -3,10 +3,7 @@
 
 Full Stack Developer 
 --------------------
-![](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanu-k-joseph) 
+![enter image description here](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen)&nbsp;![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white?https://linkedin.com/in/sanu-k-joseph )
 
 ### Skills
 
