@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&background=03000000&random=true&width=500&height=52&lines=Hi+My+name+is+Sanu+K+Joseph)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&background=03000000&random=true&width=500&height=52&lines=Hi,+I'm+Sanu+K+Joseph)](https://git.io/typing-svg)
 =====================================================================================================================================
 
 Full Stack Developer 
