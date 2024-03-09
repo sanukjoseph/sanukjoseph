@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer 
 --------------------
-![](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=2588&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen)
 
 ### Skills
 
@@ -15,4 +15,3 @@ Full Stack Developer
 ![](https://github-profile-trophy.vercel.app/?username=sanukjoseph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanukjoseph&icon=8&color=8)](https://visitcount.itsvg.in)
