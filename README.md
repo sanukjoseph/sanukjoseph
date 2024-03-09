@@ -13,5 +13,5 @@
 
 <br/>
 
-![](https://github-profile-trophy.vercel.app/?username=sanukjoseph&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanukjoseph&column=3&margin-w=15&margin-h=15&theme=discord)
 </div>
