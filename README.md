@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=0042F7&random=false&width=260&lines=Hi%2C+I'm+Sanu+K+Joseph;+A+Full+Stack+Developer)](https://git.io/typing-svg)
 
-![Count](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-k-joseph)
+![Count](https://komarev.com/ghpvc/?username=sanukjoseph&style=plastic&base=3588&color=brightgreen&label=Views)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-k-joseph)
 </div>
 
 ### Skills
