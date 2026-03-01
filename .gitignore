@@ -1,0 +1,21 @@
+# System
+node_modules
+out
+dist
+.cache
+.idea
+.DS_Store
+*.tgz
+*.lcov
+*.tsbuildinfo
+*.log
+
+# Environment
+.env
+.env.*
+
+# Source
+*
+!.gitignore
+!README.md
+!assets/me.svg
